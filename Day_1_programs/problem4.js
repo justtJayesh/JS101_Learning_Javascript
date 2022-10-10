@@ -1,0 +1,28 @@
+let name = "David Dobrik";
+let school = "University of Montreal";
+let grade = "𝟗";
+let section = "🅱️";
+let rollno = 23;
+let sub1_marks = 78;
+let sub2_marks = 63;
+let sub3_marks = 84;
+console.log();
+console.log("REPORT CARD");
+console.log();
+
+console.log("Name      👤 : " +name);
+console.log();
+console.log("School    🏫 : " +school);
+console.log();
+console.log("Grade        : "+grade);
+console.log();
+console.log("Section      : "+section);
+console.log();
+console.log("Roll no.     : "+rollno);
+console.log();
+console.log("Maths     🧮 : "+sub1_marks);
+console.log();
+console.log("Physics   🔭 : "+sub2_marks);
+console.log();
+console.log("Chemistry 🧪 : "+sub2_marks);
+console.log();
